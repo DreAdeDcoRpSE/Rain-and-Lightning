@@ -188,10 +188,6 @@ The Canvas uses `pointer-events: none`, meaning visitors can still click links, 
 
 The script does not collect visitor information, use cookies, or make external network requests.
 
-## License
-
-Add your preferred license here before publishing.
-
 ## Credits
 
 **Created by coRpSE**  
